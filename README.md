@@ -6,7 +6,7 @@ Computer Engineer | Python Enthusiast | Machine Learning Practitioner </p>
 🎓 Northwestern University (MRE in Computer Engineering) </p>
 🚀 5+ Years of Programming Experience </p>
 💻 Python, C++, Java, X86 </p>
-🧠 Machine Learning & Data Training </p>
+🧠 Machine Learning & Data Training | 👨‍💻 Software Development | 🖥️ Backend Programmer | 📊 Data Analysis</p>
 🔍 Actively Seeking Software Engineer Opportunities </p>
 👨‍💻 Passionate about Code Sharing and Collaboration </p>
 📌 Open to Feedback and Comments!
